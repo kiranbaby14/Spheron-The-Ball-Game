@@ -18,10 +18,10 @@ public class AdManager : MonoBehaviour
 
     public static AdManager instance;
 
-    private string appID = "ca-app-pub-2469916278411398~8495848528";
+    private string appID = "";
 
     private RewardBasedVideoAd rewardedAd;
-    private string rewardedAdID = "ca-app-pub-2469916278411398/9159221173";
+    private string rewardedAdID = "";
     private void Awake()
     {
      
