@@ -1,2 +1,2 @@
 # Spheron-The-Ball-Game
-A game that is created on Unity3D using the language C#. It is available on playstore to download.
+A game createded in Unity engine using C# language. It is available on playstore to download.
